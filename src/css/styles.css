@@ -18,3 +18,14 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.countryName {
+  font-size: 40px;
+  
+}
+
+ul {
+  list-style: none;
+}
+
+
